@@ -34,8 +34,4 @@ def calculate(num1, operator, num2):
 # result = calculate(num1, operator, num2)
 # print(result)
 
-# num1 = 10
-# num2 = 5
-# operator = "^"
-# result = calculate(num1, operator, num2)
-# print(result)
+
